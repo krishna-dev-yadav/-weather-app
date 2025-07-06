@@ -37,7 +37,7 @@ const App = () => {
         <div className="bg-[url('/clodimage.jpg')] bg-cover bg-center min-h-screen flex flex-col">
             <nav className="flex justify-between items-center p-4 backdrop-blur-sm bg-black/20 text-white">
                 <div className="flex gap-3 items-center">
-                    <img src="/cloud.png" alt="Cloud Logo" className="h-10" />
+                    <img src="./cloud.png" alt="Cloud Logo" className="h-10" />
                     <p className="text-lg font-semibold">Weatherclik</p>
                 </div>
                 <div className="flex gap-6">
